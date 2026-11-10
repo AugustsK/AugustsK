@@ -1,7 +1,3 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AugustsK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![AugustsK's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=AugustsK)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AugustsK&layout=donut&hide_title=true&langs_count=7&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=AugustsK&layout=donut&hide_title=true&langs_count=7&theme=date_night)
